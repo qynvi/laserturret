@@ -1,2 +1,2 @@
 # laserturret
-Intel 80188 operating firmware for a port-driven laser turret.
+Intel 80188 operating firmware for a roving laser turret.
